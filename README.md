@@ -1,7 +1,7 @@
 # Estimemon application
-# Live 
+### Live 
 ```
-http://estimemonapp.com/
+[See](http://estimemonapp.com/)
 ```
 ## Project setup
 ```
