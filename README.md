@@ -1,8 +1,7 @@
 # Estimemon application
-### Live 
-```
-[See](http://estimemonapp.com/)
-```
+### live
+ [go to](https://estimemonapp.com).
+
 ## Project setup
 ```
 npm install
