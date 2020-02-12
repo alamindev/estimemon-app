@@ -1,7 +1,7 @@
 # Estimemon application
 # Live 
 ```
-https://cli.vuejs.org/config/
+http://estimemonapp.com/
 ```
 ## Project setup
 ```
